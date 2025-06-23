@@ -1,6 +1,8 @@
 # PANCStudyDash
-Bokeh based Dashboard used for PANC Study, automatically updates graph with number of records entered over time
-Need to input API token, URL
+Bokeh based Dashboard used for PANC Study, automatically updates graph with number of records entered over time 
+
+Need to input API token, URL to graph.py to work
+
 Needs to be hosted, currently adapted for hosting on Heroku
 
 
