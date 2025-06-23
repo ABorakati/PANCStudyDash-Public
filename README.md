@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15721490.svg)](https://doi.org/10.5281/zenodo.15721490)
+
 # PANCStudyDash
 Bokeh based Dashboard used for PANC Study, automatically updates graph with number of records entered over time 
 
