@@ -1,2 +1,2 @@
-# PANCStudyDash-Public
-PANCStudy Dashboard Source Code
+# PANCStudyDash
+Dashboard for PANC Study
