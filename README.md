@@ -11,7 +11,7 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-If re-used please cite using the following format: 
+If re-used please cite using the following format: \
 Borakati A. PANCStudyDash (1.0). 2021. [Software]. [https://doi.org/10.5281/zenodo.15721490]
 
 
