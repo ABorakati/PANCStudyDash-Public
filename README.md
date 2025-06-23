@@ -10,3 +10,7 @@ This work is licensed under a
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
 If re-used please cite using the following format: Borakati A. PANCStudyDash (1.0). 2021. [Software]. 
+
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
